@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import ContractLandingPage from './Pages/ContractLandingPage';
 
 function App() {
